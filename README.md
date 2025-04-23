@@ -41,8 +41,11 @@
 
 ## 📈 GitHub Stats
 
-![alinepax GitHub stats](https://github-readme-stats.vercel.app/api?username=alinepax&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinepax&layout=compact&theme=radical)](https://github.com/alinepax)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinepax&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinepax&layout=compact&theme=radical" />
+</div>
+
 
 ---
 
