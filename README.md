@@ -47,19 +47,6 @@
 </div>
 
 
-###
-
-## 🎵 Meu Spotify
-
-<div align="center">
-  <a href="https://open.spotify.com/user/l06otl91ru0swawcz5qy7xv3g">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=l06otl91ru0swawcz5qy7xv3g&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-
 ---
 
 ⭐ Obrigada por visitar meu perfil! Se curtir algum projeto, deixe uma estrela 😉
