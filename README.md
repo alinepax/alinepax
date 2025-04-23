@@ -30,6 +30,15 @@
 
 ---
 
+## 🎯 Objetivos para 2025
+
+- 🔍 Conseguir minha primeira oportunidade em Dados ou Tecnologia
+- 📂 Expandir meu portfólio com projetos completos (NLP, análise de dados, dashboards)
+- 🤝 Colaborar com outros devs e cientistas de dados
+- 🚀 Evoluir para áreas como segurança digital e inteligência de dados
+
+---
+
 ## 📈 GitHub Stats
 
 ![alinepax GitHub stats](https://github-readme-stats.vercel.app/api?username=alinepax&show_icons=true&theme=radical)
