@@ -1,4 +1,4 @@
-# Olá, eu sou a Aline Paz 👩‍💻
+# Olá, eu sou a Aline 👩‍💻
 
 🎓 Formada em Administração | Estudante de Ciência de Dados  
 🔍 Transição de carreira para a área de Dados e Tecnologia  
