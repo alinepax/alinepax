@@ -17,6 +17,11 @@
 - 📈 [Dashboard interativo de vendas desenvolvido com Python, SQLite e Power BI](https://github.com/alinepax/dashboard-vendas)   
   Análise visual e insights estratégicos para vendas fictícias.
 
+- 🎶 [Análise das Músicas de Taylor Swift no Spotify](https://github.com/alinepax/analise_spotify_taylorswift)  
+  Análise dos dados de músicas de Taylor Swift utilizando a API do Spotify, com insights sobre popularidade, características sonoras e evolução musical.
+
+---
+
 ---
 
 ## 💻 Tecnologias e Ferramentas
