@@ -22,8 +22,6 @@
 
 ---
 
----
-
 ## 💻 Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
