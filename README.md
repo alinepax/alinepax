@@ -33,6 +33,7 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?style=flat&logo=google&logoColor=white)
 
 ---
 
