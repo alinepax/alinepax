@@ -20,7 +20,7 @@
 - 🎶 [Análise das Músicas de Taylor Swift no Spotify](https://github.com/alinepax/analise_spotify_taylorswift)  
   Análise dos dados de músicas de Taylor Swift utilizando a API do Spotify, com insights sobre popularidade, características sonoras e evolução musical.
 
-- 📊 [Dashboard de Vendas - Looker Studio](https://github.com/alinepax/dashboard_looker/tree/main)
+- 📊 [Dashboard de Vendas - Looker Studio](https://github.com/alinepax/dashboard_looker/tree/main)  
   Visualização interativa de dados de vendas com Google Looker Studio, destacando métricas-chave e tendências de desempenho para tomada de decisão.
 
 ---
