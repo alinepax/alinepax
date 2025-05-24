@@ -3,8 +3,8 @@
 🎓 Formada em Administração | Estudante de Ciência de Dados  
 🔍 Transição de carreira para a área de Dados e Tecnologia  
 💡 Interesses: Análise de Dados, Segurança Digital, Inteligência e Investigações Digitais  
-📊 Atualmente estudando Python, SQL e Power BI  
-🐍 Projetos com Python disponíveis aqui no GitHub  
+📊 Atualmente estudando Python, SQL, Power BI e Java (Eclipse)
+🐍 Projetos com Python e análise de dados disponíveis aqui no GitHub
 📫 Conecte-se comigo: [LinkedIn](https://www.linkedin.com/in/alinedapaz)
 
 ---
@@ -13,6 +13,9 @@
 
 - 🔎 [Análise de Sentimentos com NLP](https://github.com/alinepax/nlp-avaliacoes-clientes)  
   Classificação de sentimentos em avaliações com TF-IDF + Regressão Logística.
+
+- ✏️ [Análise de Frequência de Caracteres com Java](https://github.com/alinepax/frequencia-caracteres-java)
+  Programa desenvolvido em Java que analisa um texto e retorna a frequência de cada caractere. Projeto criado no Eclipse como parte da disciplina Introdução ao Coding (Mobile) - D.20251.E.
 
 - 📈 [Dashboard interativo de vendas desenvolvido com Python, SQLite e Power BI](https://github.com/alinepax/dashboard-vendas)   
   Análise visual e insights estratégicos para vendas fictícias.
@@ -28,6 +31,8 @@
 ## 💻 Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse-ide)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi)
