@@ -3,8 +3,8 @@
 🎓 Formada em Administração | Estudante de Ciência de Dados  
 🔍 Transição de carreira para a área de Dados e Tecnologia  
 💡 Interesses: Análise de Dados, Segurança Digital, Inteligência e Investigações Digitais  
-📊 Atualmente estudando Python, SQL, Power BI e Java (Eclipse)
-🐍 Projetos com Python e análise de dados disponíveis aqui no GitHub
+📊 Atualmente estudando Python, SQL, Power BI e Java (Eclipse)  
+🐍 Projetos com Python e análise de dados disponíveis aqui no GitHub  
 📫 Conecte-se comigo: [LinkedIn](https://www.linkedin.com/in/alinedapaz)
 
 ---
