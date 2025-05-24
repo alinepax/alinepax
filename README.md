@@ -14,7 +14,7 @@
 - 🔎 [Análise de Sentimentos com NLP](https://github.com/alinepax/nlp-avaliacoes-clientes)  
   Classificação de sentimentos em avaliações com TF-IDF + Regressão Logística.
 
-- ✏️ [Análise de Frequência de Caracteres com Java](https://github.com/alinepax/frequencia-caracteres-java)
+- ✏️ [Análise de Frequência de Caracteres com Java](https://github.com/alinepax/frequencia-caracteres-java)  
   Programa desenvolvido em Java que analisa um texto e retorna a frequência de cada caractere. Projeto criado no Eclipse como parte da disciplina Introdução ao Coding (Mobile) - D.20251.E.
 
 - 📈 [Dashboard interativo de vendas desenvolvido com Python, SQLite e Power BI](https://github.com/alinepax/dashboard-vendas)   
