@@ -11,6 +11,9 @@
 
 ## 🚀 Projetos em Destaque
 
+- 👥 [Dashboard de Análise de Benefícios](https://github.com/alinepax/analise-beneficios-rh)  
+  Análise de engajamento com benefícios corporativos, desde o tratamento de dados em Python até um dashboard interativo em Power BI.
+
 - 🔎 [Análise de Sentimentos com NLP](https://github.com/alinepax/nlp-avaliacoes-clientes)  
   Classificação de sentimentos em avaliações com TF-IDF + Regressão Logística.
 
