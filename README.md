@@ -13,22 +13,28 @@
 
 - 👥 [Dashboard de Análise de Benefícios](https://github.com/alinepax/dashboard-beneficios)  
   Análise de engajamento com benefícios corporativos, desde o tratamento de dados em Python até um dashboard interativo em Power BI.
+  *Feito com: Python, Pandas, Power BI*
 
 - 🔎 [Análise de Sentimentos com NLP](https://github.com/alinepax/nlp-avaliacoes-clientes)  
   Classificação de sentimentos em avaliações com TF-IDF + Regressão Logística.
+  *Feito com: Python, Scikit-learn, NLP*
 
 - ✏️ [Análise de Frequência de Caracteres com Java](https://github.com/alinepax/frequencia-caracteres-java)  
-  Programa desenvolvido em Java que analisa um texto e retorna a frequência de cada caractere. Projeto criado no Eclipse como parte da disciplina Introdução ao Coding (Mobile) - D.20251.E.
+  Programa desenvolvido em Java que analisa um texto e retorna a frequência de cada caractere.
+  *Feito com: Java, Eclipse*
 
 - 📈 [Dashboard interativo de vendas desenvolvido com Python, SQLite e Power BI](https://github.com/alinepax/dashboard-vendas)   
   Análise visual e insights estratégicos para vendas fictícias.
+  *Feito com: Python, SQLite, Power BI*
 
 - 🎶 [Análise das Músicas de Taylor Swift no Spotify](https://github.com/alinepax/analise_spotify_taylorswift)  
-  Análise dos dados de músicas de Taylor Swift utilizando a API do Spotify, com insights sobre popularidade, características sonoras e evolução musical.
+  Análise dos dados de músicas de Taylor Swift utilizando a API do Spotify, com insights sobre popularidade e características sonoras.
+  *Feito com: Python, Pandas, API do Spotify*
 
 - 📊 [Dashboard de Vendas com o Looker Studio](https://github.com/alinepax/dashboard_looker/tree/main)  
-  Visualização interativa de dados de vendas com Google Looker Studio, destacando métricas-chave e tendências de desempenho para tomada de decisão.
-
+  Visualização interativa de dados de vendas, destacando métricas-chave e tendências para tomada de decisão.
+  *Feito com: Google Looker Studio*
+  
 ---
 
 ## 💻 Tecnologias e Ferramentas
@@ -46,7 +52,7 @@
 
 ---
 
-## 🎯 Objetivos para 2025
+## 🎯 Foco Atual e Próximos Passos
 
 - 🔍 Conseguir minha primeira oportunidade em Dados ou Tecnologia
 - 📂 Expandir meu portfólio com projetos completos (NLP, análise de dados, dashboards)
@@ -55,7 +61,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinepax&show_icons=true&theme=radical" />
