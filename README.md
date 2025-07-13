@@ -17,7 +17,7 @@ Minha formação em **Administração** me deu uma base sólida em processos de 
 
 ## 🚀 Projetos em Destaque
 
-- 📈 [Análise Preditiva de Retenção de Talentos](https://github.com/alinepax/analise-de-retencao-rh)
+- 📈 [Análise Preditiva de Retenção de Talentos](https://github.com/alinepax/analise-de-retencao-rh)  
   Análise completa dos fatores de turnover de colaboradores, incluindo a construção de um pipeline de dados automatizado para calcular um score de risco e a criação de um dashboard de      monitoramento no Power BI.  
   *Feito com: Python, Pandas, Seaborn, gspread, Power BI*
 
