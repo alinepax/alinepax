@@ -17,7 +17,7 @@ Minha formação em **Administração** me deu uma base sólida em processos de 
 
 ## 🚀 Projetos em Destaque
 
-- 📈 [Análise Preditiva de Retenção de Talentos](URL_DO_SEU_NOVO_REPOSITORIO)
+- 📈 [Análise Preditiva de Retenção de Talentos](https://github.com/alinepax/analise-de-retencao-rh)
   Análise completa dos fatores de turnover de colaboradores, incluindo a construção de um pipeline de dados automatizado para calcular um score de risco e a criação de um dashboard de      monitoramento no Power BI.  
   *Feito com: Python, Pandas, Seaborn, gspread, Power BI*
 
@@ -46,13 +46,13 @@ Minha formação em **Administração** me deu uma base sólida em processos de 
 ## 💻 Tecnologias e Ferramentas
 
 **Linguagens & Banco de Dados:**
-![Python](...) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql) ![Java](...)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 
 **Análise de Dados & Machine Learning:**
-![Pandas](...) ![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat&logo=numpy) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat&logo=numpy) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn)
 
 **Business Intelligence:**
-![Power BI](...) ![Looker Studio](...) ![Excel](...)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi) ![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?style=flat&logo=google&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel)
 
 **Cloud & APIs:**
 ![Google Sheets API](https://img.shields.io/badge/-Google%20Sheets%20API-34A853?style=flat&logo=google-sheets) ![gspread](https://img.shields.io/badge/-gspread-E4405F?style=flat)
