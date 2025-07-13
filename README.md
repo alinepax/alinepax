@@ -11,6 +11,10 @@
 
 ## 🚀 Projetos em Destaque
 
+- 📈 [Análise Preditiva de Retenção de Talentos](URL_DO_SEU_NOVO_REPOSITORIO)
+  Análise completa dos fatores de turnover de colaboradores, incluindo a construção de um pipeline de dados automatizado para calcular um score de risco e a criação de um dashboard de      monitoramento no Power BI.
+  *Feito com:* Python, Pandas, Seaborn, gspread, Power BI*
+
 - 👥 [Dashboard de Análise de Benefícios](https://github.com/alinepax/dashboard-beneficios)  
   Análise de engajamento com benefícios corporativos, desde o tratamento de dados em Python até um dashboard interativo em Power BI.  
   *Feito com: Python, Pandas, Power BI*
