@@ -5,7 +5,9 @@
 💡 Interesses: Análise de Dados, Segurança Digital, Inteligência e Investigações Digitais  
 📊 Atualmente estudando Python, SQL, Power BI e Java (Eclipse)  
 🐍 Projetos com Python e análise de dados disponíveis aqui no GitHub  
-📫 Conecte-se comigo: [LinkedIn](https://www.linkedin.com/in/alinedapaz) <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=alinedapaz" target="_blank">
+
+
+<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=alinedapaz" target="_blank">
   <img src="https://img.shields.io/badge/Follow on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn"/>
 </a>
 
