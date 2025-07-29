@@ -21,6 +21,10 @@ Minha formação em **Administração** me deu uma base sólida em processos de 
 
 ## 🚀 Projetos em Destaque
 
+- 🎬 [Onde Assistir? - Agregador de Streaming](https://github.com/alinepax/app-onde-assistir)  
+  Aplicativo web que centraliza a busca por filmes em diferentes serviços de streaming. Consome e combina dados das APIs do Watchmode e TMDb para fornecer uma resposta completa: onde assistir, sinopse, nota e pôster.  
+  *Feito com: Python, Streamlit, API (Watchmode & TMDb), Git*
+
 - 📈 [Análise Preditiva de Retenção de Talentos](https://github.com/alinepax/analise-de-retencao-rh)  
   Análise completa dos fatores de turnover de colaboradores, incluindo a construção de um pipeline de dados automatizado para calcular um score de risco e a criação de um dashboard de      monitoramento no Power BI.  
   *Feito com: Python, Pandas, Seaborn, gspread, Power BI*
