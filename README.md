@@ -21,33 +21,35 @@ Minha formação em **Administração** me deu uma base sólida em processos de 
 
 ## 🚀 Projetos em Destaque
 
-- 🎬 [Onde Assistir? - Agregador de Streaming](https://github.com/alinepax/app-onde-assistir)  
-  Aplicativo web que centraliza a busca por filmes em diferentes serviços de streaming. Consome e combina dados das APIs do Watchmode e TMDb para fornecer uma resposta completa: onde assistir, sinopse, nota e pôster.  
-  *Feito com: Python, Streamlit, API (Watchmode & TMDb), Git*
+---
 
-- 📈 [Análise Preditiva de Retenção de Talentos](https://github.com/alinepax/analise-de-retencao-rh)  
-  Análise completa dos fatores de turnover de colaboradores, incluindo a construção de um pipeline de dados automatizado para calcular um score de risco e a criação de um dashboard de      monitoramento no Power BI.  
-  *Feito com: Python, Pandas, Seaborn, gspread, Power BI*
+### 🎬 [Onde Assistir? - Agregador de Streaming](https://github.com/alinepax/app-onde-assistir) (Full-Stack)
+Aplicação web full-stack que resolve o problema da fragmentação de streamings. O projeto orquestra duas APIs (Watchmode & TMDb), possui uma interface interativa com Streamlit e está em deploy contínuo na nuvem. Demonstra habilidades em UX, tratamento de erros e desenvolvimento de produto.  
+**Feito com:** `Python`, `Streamlit`, `APIs REST`, `Git`, `CI/CD`
 
-- 👥 [Dashboard de Análise de Benefícios](https://github.com/alinepax/dashboard-beneficios)  
-  Análise de engajamento com benefícios corporativos, desde o tratamento de dados em Python até um dashboard interativo em Power BI.  
-  *Feito com: Python, Pandas, Power BI*
+--
 
-- 🔎 [Análise de Sentimentos com NLP](https://github.com/alinepax/nlp-avaliacoes-clientes)  
-  Classificação de sentimentos em avaliações com TF-IDF + Regressão Logística.  
-  *Feito com: Python, Scikit-learn, NLP*
+### 📈 [Análise Preditiva de Retenção de Talentos](https://github.com/alinepax/analise-de-retencao-rh) (People Analytics)
+Projeto end-to-end que identifica os fatores de turnover, calcula um score de risco preditivo através de um pipeline automatizado com Python e apresenta os resultados em um dashboard gerencial no Power BI.  
+**Feito com:** `Python`, `Pandas`, `Power BI`, `Automação`
 
-- 📈 [Dashboard interativo de vendas desenvolvido com Python, SQLite e Power BI](https://github.com/alinepax/dashboard-vendas)   
-  Análise visual e insights estratégicos para vendas fictícias.  
-  *Feito com: Python, SQLite, Power BI*
+---
 
-- 🎶 [Análise das Músicas de Taylor Swift no Spotify](https://github.com/alinepax/analise_spotify_taylorswift)  
-  Análise dos dados de músicas de Taylor Swift utilizando a API do Spotify, com insights sobre popularidade e características sonoras.  
-  *Feito com: Python, Pandas, API do Spotify*
+### 🔎 [Análise de Sentimentos com NLP](https://github.com/alinepax/nlp-avaliacoes-clientes) (Machine Learning)
+Modelo de Machine Learning para classificação de sentimentos em avaliações de clientes. O projeto cobre desde o pré-processamento de texto com técnicas de NLP (TF-IDF) até o treino e avaliação de um modelo de Regressão Logística.  
+**Feito com:** `Python`, `Scikit-learn`, `NLP`, `Pandas`
 
-- 📊 [Dashboard de Vendas com o Looker Studio](https://github.com/alinepax/dashboard_looker)  
-  Visualização interativa de dados de vendas, destacando métricas-chave e tendências para tomada de decisão.  
-  *Feito com: Google Looker Studio*
+---
+
+### 📊 [Dashboards de Vendas](https://github.com/alinepax/dashboard-vendas) (Business Intelligence)
+Análise visual e insights estratégicos para dados de vendas, demonstrando proficiência em diferentes ferramentas de BI. Inclui um dashboard em **Power BI** com dados de um banco SQL e outro em **Looker Studio** para comparação de plataformas.  
+**Feito com:** `Power BI`, `Looker Studio`, `SQL`, `Python`
+
+---
+
+### 👥 [Dashboard de Análise de Benefícios](https://github.com/alinepax/dashboard-beneficios) (RH)
+Análise de engajamento com benefícios corporativos, desde o tratamento e anonimização de dados em Python até a criação de um dashboard interativo em Power BI para apoiar a tomada de decisão do time de RH.  
+**Feito com:** `Python`, `Pandas`, `Power BI`
   
 ---
 
