@@ -21,31 +21,21 @@ Minha formação em **Administração** me deu uma base sólida em processos de 
 
 ## 🚀 Projetos em Destaque
 
----
-
 ### 🎬 [Onde Assistir? - Agregador de Streaming](https://github.com/alinepax/app-onde-assistir) (Full-Stack)
 Aplicação web full-stack que resolve o problema da fragmentação de streamings. O projeto orquestra duas APIs (Watchmode & TMDb), possui uma interface interativa com Streamlit e está em deploy contínuo na nuvem. Demonstra habilidades em UX, tratamento de erros e desenvolvimento de produto.  
 **Feito com:** `Python`, `Streamlit`, `APIs REST`, `Git`, `CI/CD`
-
---
 
 ### 📈 [Análise Preditiva de Retenção de Talentos](https://github.com/alinepax/analise-de-retencao-rh) (People Analytics)
 Projeto end-to-end que identifica os fatores de turnover, calcula um score de risco preditivo através de um pipeline automatizado com Python e apresenta os resultados em um dashboard gerencial no Power BI.  
 **Feito com:** `Python`, `Pandas`, `Power BI`, `Automação`
 
----
-
 ### 🔎 [Análise de Sentimentos com NLP](https://github.com/alinepax/nlp-avaliacoes-clientes) (Machine Learning)
 Modelo de Machine Learning para classificação de sentimentos em avaliações de clientes. O projeto cobre desde o pré-processamento de texto com técnicas de NLP (TF-IDF) até o treino e avaliação de um modelo de Regressão Logística.  
 **Feito com:** `Python`, `Scikit-learn`, `NLP`, `Pandas`
 
----
-
 ### 📊 [Dashboards de Vendas](https://github.com/alinepax/dashboard-vendas) (Business Intelligence)
 Análise visual e insights estratégicos para dados de vendas, demonstrando proficiência em diferentes ferramentas de BI. Inclui um dashboard em **Power BI** com dados de um banco SQL e outro em **Looker Studio** para comparação de plataformas.  
 **Feito com:** `Power BI`, `Looker Studio`, `SQL`, `Python`
-
----
 
 ### 👥 [Dashboard de Análise de Benefícios](https://github.com/alinepax/dashboard-beneficios) (RH)
 Análise de engajamento com benefícios corporativos, desde o tratamento e anonimização de dados em Python até a criação de um dashboard interativo em Power BI para apoiar a tomada de decisão do time de RH.  
